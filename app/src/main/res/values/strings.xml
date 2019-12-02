@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="voeg_toe">Voeg toe</string>
+    <string name="name">Boujdaini Ahmed</string>
+    <string name="presentatie" >
+        Hallo ik ben Ahmed.
+        \n\n Dit jaar is mijn laatste jaar, momenteel moet ik drie modules afmaken om gediplomeerd te zijn.
+        \n\n Waarom heb ik deze richting gekozen?
+
+    Ik doe het nu al en ik vind het leuk.
+
+        \n\nWat doet of maakt een Informaticus?
+
+        \n\n- games
+
+        \n\n- apps voor smartphone / tablets
+
+        \n\n- smartboard
+
+        \n\n- websites
+
+        \n\nDit jaar volg ik de volgende vakken :
+
+        \n\
+    </string>
+    <string name="moi_1">Moi</string>
+    <string name="wat_zijn_u_vakken">Wat zijn u vakken</string>
+    <string name="Klein_Moi">Klein moi</string>
+</resources>
